@@ -16,3 +16,8 @@ So I installed Hoodloader1 from https://github.com/NicoHood/Hoodloader
 This enables the HID feature for arduino UNO.
 I used the HID lbirary from https://github.com/NicoHood/HID. (the last version compatible with Hoodloader1.
 Used Arduino IDE (ther verison around 2015 compatible with the HID library.
+
+
+TODO
+Only Mouse part is implemented.
+Keyboard relaying needs to be done
